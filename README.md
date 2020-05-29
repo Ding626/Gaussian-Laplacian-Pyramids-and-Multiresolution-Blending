@@ -24,7 +24,7 @@ The reconstructed image using the Laplacian pyramid of the elephant was-
 
 ## Multiresolution Blending
 
-The aim was to use images of an orange and an apple of the same size and blend them together to obtain a new kind of fruit- orapple :stuck_out_tongue: :stuck_out_tongue:. This was done using multiresolution blending. 
+The aim was to use images of an orange and an apple of the same size and blend them together to obtain a new kind of fruit- orapple :stuck_out_tongue::stuck_out_tongue:. This was done using multiresolution blending. 
 
 The orapple obtained was-
 <p align="center">
